@@ -17,5 +17,11 @@ public class Demo
 		System.out.println("Created by Shobha in GITHUB");
 		
 	}
+	public void m3()
+	{
+		System.out.println("Created by OM in eclipse");
+		
+	}
+	
 
 }
