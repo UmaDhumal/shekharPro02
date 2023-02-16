@@ -12,5 +12,10 @@ public class Demo
 		System.out.println("Created by Uma");
 		
 	}
+	public void m2()
+	{
+		System.out.println("Created by Shobha in GITHUB");
+		
+	}
 
 }
